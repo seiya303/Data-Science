@@ -1,0 +1,15 @@
+,Outlook,Temperature,Humidity,Wind,Played footall
+Day01,Sunny,Hot,High,Weak,No
+Day02,Sunny,Hot,High,Strong,No
+Day03,Sunny,Mild,High,Weak,No
+Day04,Sunny,Cool,Normal,Weak,Yes
+Day05,Sunny,Mild,Normal,Strong,Yes
+Day06,Overcast,Hot,High,Weak,Yes
+Day07,Overcast,Cool,Normal,Strong,Yes
+Day08,Overcast,Mild,High,Strong,Yes
+Day09,Overcast,Hot,Normal,Weak,Yes
+Day10,Rain,Mild,High,Weak,Yes
+Day11,Rain,Cool,Normal,Weak,Yes
+Day12,Rain,Cool,Normal,Strong,No
+Day13,Rain,Mild,Normal,Weak,Yes
+Day14,Rain,Mild,High,Strong,No
