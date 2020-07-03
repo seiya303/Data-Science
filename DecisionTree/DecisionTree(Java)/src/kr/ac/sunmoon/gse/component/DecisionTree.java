@@ -28,6 +28,7 @@ public class DecisionTree
 	public void fit()
 	{
 		extendNode(root);
+		dataset = null;
 	}
 	
 	private void extendNode(Node node)
@@ -121,7 +122,7 @@ public class DecisionTree
 			String value = instance.getValueAt(featureIndex);
 			hmValues.put(value, value);
 		}
-		
+
 		Iterator<String> iter = hmValues.values().iterator();
 		ArrayList<String> operands = new ArrayList<String>();
 		while(iter.hasNext())
